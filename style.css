@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url("netflixnew.jpg");
+  
+}
+nav{
+    display: flex;
+    
+    height: 60px;
+    align-items: center;
+    margin-left: 200px;
+    padding-top: 25px;
+}
+#divbox{
+    background-color: rgba(0,0,0,0.75);
+    height: 100vh;
+}
+
+#logo{
+    height: 55px;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+
+#signbutton{
+    background-color: red;
+    color: white;
+    border-radius: 10%;
+    margin-left: 950px;
+    height:30px;
+    font-size: medium;
+    font-weight: 700;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 35px;
+   
+    border: red;
+}
+#register{
+    margin-left: 20px;
+    color: white;
+    background-color: red;
+    border-radius: 10%;
+    font-size: medium;
+    font-weight: 700;
+    height: 30px;
+    font-size: medium;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: red;
+    height: 35px;
+ 
+}
+
+
+.text{
+    color: white;
+    text-align: center;
+    margin-top: 260px;
+    font-size: 55px;
+}
+#text2{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+}
+#text3{
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+    font-size: 25px;
+}
